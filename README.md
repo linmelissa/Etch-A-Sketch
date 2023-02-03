@@ -3,7 +3,7 @@
 ## Description
 Browser version of something between a sketchpad and an Etch-A-Sketch focusing on DOM manipulation.
 
-## [Live Demo]()
+## [Live Demo](https://linmelissa.github.io/Etch-A-Sketch/)
 
 ## Instructions
 - Press buttons to change colors
